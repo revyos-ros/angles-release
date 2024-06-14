@@ -1,3 +1,26 @@
+## angles (jazzy) - 1.16.0-6
+
+The packages in the `angles` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy angles --override-release-repository-push-url git@github.com:revyos-ros/angles-release.git` on `Fri, 14 Jun 2024 03:48:39 -0000`
+
+The `angles` package was released.
+
+Version of package(s) in repository `angles`:
+
+- upstream repository: https://github.com/ros/angles.git
+- release repository: https://github.com/revyos-ros/angles-release.git
+- rosdistro version: `1.16.0-5`
+- old version: `1.16.0-5`
+- new version: `1.16.0-6`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## angles (humble) - 1.15.0-1
 
 The packages in the `angles` repository were released into the `humble` distro by running `/usr/bin/bloom-release --track humble --rosdistro humble angles` on `Tue, 12 Jul 2022 07:43:47 -0000`
